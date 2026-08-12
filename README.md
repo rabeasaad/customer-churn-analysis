@@ -8,6 +8,8 @@ Customer churn is a critical business metric indicating the percentage of subscr
 - **Predictive Modeling:** Implemented a Random Forest Classifier to identify patterns leading to customer attrition.
 - **Business Insights:** Pinpoints key churn drivers, such as contract terms (Month-to-Month) and payment methods.
 
+![Customer Churn Dashboard](dashboard_preview.png)
+
 ## 🛠️ Tech Stack
 - **Python:** Data processing & Machine Learning (`pandas`, `scikit-learn`, `numpy`)
 - **Git & GitHub:** Version control and collaboration.
